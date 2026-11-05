@@ -1,9 +1,9 @@
+version: 1.0.0
 info:
   model: int-scaffold
 packages:
-- gitBranch: release/1.0.0
+- name: Test2Project
   gitServerName: rahulsiv
   gitUrl: https://github.com/Rahul-Sivakumar-IBM
   gitUsername: Rahul-Sivakumar-IBM
-  name: Test2Project
-version: 1.0.0
+  gitBranch: release/1.0.0
