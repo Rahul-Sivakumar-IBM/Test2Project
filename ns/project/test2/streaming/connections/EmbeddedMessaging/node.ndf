@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">connectorAccount</value>
+  <value name="node_subtype">streamingAccount</value>
+  <value name="node_nsName">project.test2.streaming.connections:EmbeddedMessaging</value>
+  <value name="node_pkg">Test2Project</value>
+  <value name="is_public">false</value>
+  <value name="assetId">Test2Project.project.test2.streaming.connections:EmbeddedMessaging</value>
+  <value name="connectionName">EmbeddedMessaging</value>
+  <value name="description">This is the default embedded messaging account</value>
+  <value name="providerURI">nhp://enginx.local:5050/localdev/</value>
+  <value name="clientId">EM4325a86927c5422aba706334bf09bc53</value>
+  <value name="securityProtocol"></value>
+  <value name="keystoreAlias"></value>
+  <value name="keystoreKeyAlias"></value>
+  <value name="truststoreAlias"></value>
+  <value name="additionalProperties"></value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">rahul.sivakumar1@ibm.com</value>
+    <value name="modifiedBy">rahul.sivakumar1@ibm.com</value>
+    <value name="createdDate">2026-11-05T10:38:35.855786025Z</value>
+    <value name="lastModifiedDate">2026-11-05T10:38:35.855786025Z</value>
+  </record>
+</Values>
